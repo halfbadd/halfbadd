@@ -1,4 +1,13 @@
-## Hi there 👋
+## Yo — I'm Kam (aka **halfbadd**)  
+Security+ in progress • SOC Analyst arc loading…
+
+I break down problems fast, talk to humans even faster, and turn chaos into checklists. Building my blue-team toolkit while still creating content on YouTube (L3WDtv). When I say “get smart,” I’m deep in cyber; when I say “lock in,” I’m creating. Lets make some chaos together!
+
+- 🛡️ Learning: SIEM basics, IR runbooks, ports/protocols
+- 🧠 Strengths: clear comms, pressure-ready, creator discipline
+- 🍳 Fun fact: I run a Caribbean hibachi ghost kitchen.
+- 🤝 Collab: open to beginner-friendly security projects, docs, and lab pair-ups
+- 📫 Find me: @KoolAhhKam (IG/TikTok) • YouTube: L3WDtv
 
 <!--
 **halfbadd/halfbadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
