@@ -5,7 +5,7 @@ I break down problems fast, talk to humans even faster, and turn chaos into chec
 
 - 🛡️ Learning: SIEM basics, IR runbooks, ports/protocols
 - 🧠 Strengths: clear comms, pressure-ready, creator discipline
-- 🍳 Fun fact: I run a Caribbean hibachi ghost kitchen.
+- 🍳 Fun fact: I run a Caribbean hibachi ghost kitchen & Im an entrepreneur
 - 🤝 Collab: open to beginner-friendly security projects, docs, and lab pair-ups
 - 📫 Find me: @KoolAhhKam (IG/TikTok) • YouTube: L3WDtv
 
